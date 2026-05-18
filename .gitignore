@@ -1,0 +1,11 @@
+*.exe
+*.out
+wanchuan
+test_fib
+test_uart
+*.o
+*.obj
+.vscode/
+.idea/
+build/
+dist/
